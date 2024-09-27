@@ -1,0 +1,39 @@
+Question 1:
+    A l’intérieur d’une page HTML ou on met Java script : 
+        B. <script>
+
+Question 2:
+    Quelle est la vraie syntaxe pour changer le contenu de l’élément suivant <span id=’span1’>test</span> :
+        A. document.getElementById(‘span1’).innerHTML=’salut monde’
+
+Question 3:
+    Quelle est l’emplacement de Java Script :
+        C. Les deux
+
+Question 4:
+    Quelle la bonne syntaxe pour faire référence à un script externe script1.js :
+        C. <script src=’script1.js’>
+
+Question 5:
+    Un script externe doit contenir le tag <script> :
+         B. Non
+        
+Question 6:
+    Comment créer une fonction en javascript :
+        B. function function1()
+
+Question 7:
+    Comment écrire la condition if :
+        C. if(x == 7)
+
+Question 8:
+    Comment écrire la condition x n’est pas égal à 7 :
+        D. if (x != 7)
+
+Question 9:
+    La bonne syntaxe de la boucle while :
+        B. while (k <= 20)
+
+Question 10:
+    La bonne syntaxe de for :
+        C. for(j = 0; j <= 10; j++)
